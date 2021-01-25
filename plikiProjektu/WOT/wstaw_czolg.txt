@@ -1,0 +1,1 @@
+$sql = "INSERT INTO `czolg` (`nazwa`, `model`, `pancerz`, `życie`, `siła_ognia`, `tier`, `nacja`, `typ`) VALUES (\'AMX 50 Foch\', \'obrazy/czolgi/X/Td/AMX 50 Foch B.png\', \'180\', \'1850\', \'400\', \'X\', \'France\', \'tank destroyer\')";

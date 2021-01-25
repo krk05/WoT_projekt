@@ -1,0 +1,57 @@
+body {
+  background-color:  #579475;
+  height: 100%;
+  margin: 0px;
+}
+
+.tytul{
+	background-color:  #493a03;
+	/*#333333;*/
+	height: 120px;
+	text-align: center;
+	padding-top: 30px;
+	color: white;
+}
+
+.row2{
+	height: 500px;
+
+}
+
+table{
+ vertical-align: middle
+}
+
+.left_right{
+background-image: url("tlo.jpg");
+height: 100%; 
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.login{
+margin-top: 100px;
+text-align: center;
+color:white;
+}
+
+.nick{
+	background-color:  #666666;
+	height: 60px;
+	text-align: center;
+	padding-top: 10px;
+	color: white;
+}
+
+a{
+	height: 60px;
+	text-align: center;
+	width: 100%;
+
+}
+
+td{
+
+	vertical-align: middle !important;	
+}

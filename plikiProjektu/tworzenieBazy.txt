@@ -1,0 +1,4 @@
+należy w phpMyAdmin importować plik  kkulesa_wot.sql a następnie skonfigurować plik WOT->config.php
+Jedyna zmiana w config.php to nazwa bazy danych na taką, jaka jest w phpMyAdmin - u nas była to nazwa "projekt".
+
+Do samego projektu można się też dostać przez link katarzynakulesa.pl/WOT 
